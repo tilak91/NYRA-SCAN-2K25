@@ -11,7 +11,7 @@ st.set_page_config(page_title="🎉 QR Verifier", page_icon="🔍")
 st.title("🎉 Freshers Fest QR Verifier")
 
 # Constants
-EXCEL_URL = "https://raw.githubusercontent.com/tilak91/NYRA-ONE/main/freshers_data.xlsx"
+EXCEL_URL = "https://raw.githubusercontent.com/tilak91/NYRA-SCAN-2K25/main/freshers_data.xlsx"
 SCANNED_DB = "scanned_qr.json"  # local file to track scanned QR codes
 
 # Load scanned QR codes from file
